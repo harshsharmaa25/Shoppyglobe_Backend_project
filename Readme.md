@@ -44,7 +44,7 @@
 
 ### Step 1: Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/harshsharmaa25/Shoppyglobe_Backend_project.git
 
 cd Shoppyglobe_Backend_project
 
@@ -103,7 +103,7 @@ MongoDB (or a MongoDB cloud instance like MongoDB Atlas)
 
 bash
 Copy code
-git clone https://github.com/your-username/node-express-mongodb-api.git
+git clone https://github.com/harshsharmaa25/Shoppyglobe_Backend_project.git
 cd node-express-mongodb-api
 
 ### Step 2: Install dependencies
@@ -190,4 +190,4 @@ All cart-related routes (POST /cart, PUT /cart/:id, DELETE /cart/:id) require th
 5. 🔒 **Include the JWT Token for Protected Routes**  
    For protected routes (such as cart-related operations), include the **JWT token** in the Authorization header as a **Bearer token**.  
 
-   Example:
+
